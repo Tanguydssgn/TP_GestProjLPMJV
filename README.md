@@ -59,3 +59,5 @@ Luna Sommaro LD
 Perrain Jérémy LPI3D
 
 Maxence Bartoli LD
+
+Tanguy Dessaigne LD
